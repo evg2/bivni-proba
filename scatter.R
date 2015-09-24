@@ -1,5 +1,5 @@
-plot(
-  mpg ~ disp, 
+qplot(
+  mpg, disp, 
   data = mtcars,
   main = "зависимость расхода топлива от объема двигателя",
   ylab = "миль на галлон",

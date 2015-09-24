@@ -1,3 +1,5 @@
+require(ggplot2)
+
 # Example main file
 setwd("~/Documents/bivni_msu/bivni-2/bivni-proba")
 
